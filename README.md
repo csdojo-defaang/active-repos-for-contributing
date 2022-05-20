@@ -16,6 +16,16 @@ It has instructions on how to get started with the process, which makes it reall
 
 https://github.com/firstcontributions/first-contributions
 
+------
+
+## Dozen Issues for First Timers
+
+> To help you get started Amplication have found a Dozen issues for first-time contributors, that can be a great way to fire-start your journey of the open-source contribution.
+
+By giving back to the community, you’re also getting a chance to win cool limited-edition swag.
+
+
+https://github.com/amplication/amplication/issues/2737
 ---
 
 ## LinkFree
