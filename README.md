@@ -18,11 +18,13 @@ https://github.com/firstcontributions/first-contributions
 
 ------
 
-## Dozen Issues for First Timers
+## dozen Issues for First Timers
 
-> To help you get started Amplication have found a Dozen issues for first-time contributors, that can be a great way to fire-start your journey of the open-source contribution.
+> To help you get started [Amplication](https://github.com/amplication/amplication/) have found a dozen issues for first-time contributors, that can be a great way to fire-start your journey of the open-source contribution.
 
-By giving back to the community, you’re also getting a chance to win cool limited-edition swag.
+By giving back to the community, you’re also getting a chance to win some swag. There are three issues still left. 
+
+Campaign will run till all issues are taken by the community.
 
 
 https://github.com/amplication/amplication/issues/2737
