@@ -106,3 +106,16 @@ https://github.com/KyleTryon/Feed-Monitor
 Built on: many languages
 
 https://github.com/appwrite
+
+
+---
+
+## Amplication
+
+> Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+
+ 
+
+Built on: Typescript, NodeJS, React, etc.
+
+https://github.com/amplication
