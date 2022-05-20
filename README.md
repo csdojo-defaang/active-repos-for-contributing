@@ -82,7 +82,7 @@ https://github.com/open-sauced/hot
 
 > An open-source codebase for sharing programming solutions.
 
-Built on: many languages.
+Built on: many languages
 
 https://github.com/codinasion/codinasion-programme
 
