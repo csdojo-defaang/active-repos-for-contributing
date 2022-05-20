@@ -106,3 +106,11 @@ https://github.com/KyleTryon/Feed-Monitor
 Built on: many languages
 
 https://github.com/appwrite
+
+---
+## Colossal-AI
+> An open-source deep learning system for large-scale model training with high efficiency and low cost. Colossal-AI provides a collection of parallel training components. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training in a few lines.
+
+Built on: Python, Cuda, C++
+
+https://github.com/hpcaitech/ColossalAI
