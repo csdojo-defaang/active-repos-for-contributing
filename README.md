@@ -127,3 +127,25 @@ https://github.com/hpcaitech/ColossalAI
 Built on: Typescript, NodeJS, React, etc.
 
 https://github.com/amplication
+
+
+---
+
+## prisma
+
+> Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+
+Built on: TypeScript, JavaScript, Shell etc.
+
+https://github.com/prisma/prisma
+
+
+---
+
+## novu
+
+> Open-source notification infrastructure for products.
+
+Built on: TypeScript, JavaScript, HTML etc.
+
+https://github.com/novuhq/novu
