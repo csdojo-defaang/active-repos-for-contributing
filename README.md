@@ -139,6 +139,7 @@ Built on: TypeScript, JavaScript, Shell etc.
 
 https://github.com/prisma/prisma
 
+Issues for first timers: https://github.com/prisma/prisma/contribute
 
 ---
 
@@ -149,3 +150,5 @@ https://github.com/prisma/prisma
 Built on: TypeScript, JavaScript, HTML etc.
 
 https://github.com/novuhq/novu
+
+Issues for first timers: https://github.com/novuhq/novu/contribute
