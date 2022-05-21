@@ -124,7 +124,7 @@ https://github.com/hpcaitech/ColossalAI
 
  
 
-Built on: Typescript, NodeJS, React, etc.
+Built on: TypeScript, NodeJS, React, etc.
 
 https://github.com/amplication
 
