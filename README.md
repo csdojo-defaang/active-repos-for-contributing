@@ -158,9 +158,12 @@ Issues for first timers: https://github.com/novuhq/novu/contribute
 
 ## Watchflix
 
-> Watchflix is an open source movie recommendaton website that uses The Movie Database API (TMDB).
+> Movie recomendation platform that gets data from The Movie Database (TMDB) API.
 
 Built on: JavaScript
 
-<https://github.com/carlagesa/Watchflix>
+https://github.com/carlagesa/Watchflix
+
+Issues for first timers: https://github.com/carlagesa/Watchflix/blob/main/contributors.md
+
 
