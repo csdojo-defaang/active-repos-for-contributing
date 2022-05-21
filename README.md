@@ -164,6 +164,5 @@ Built on: JavaScript
 
 https://github.com/carlagesa/Watchflix
 
-Issues for first timers: https://github.com/carlagesa/Watchflix/blob/main/contributors.md
-
+Issues for first timers: https://github.com/carlagesa/Watchflix/blob/main/CONTRIBUTING.md
 
