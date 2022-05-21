@@ -127,3 +127,13 @@ https://github.com/hpcaitech/ColossalAI
 Built on: Typescript, NodeJS, React, etc.
 
 https://github.com/amplication
+
+---
+
+## Watchflix
+
+> Watchflix is an open source movie recommendaton website that uses The Movie Database API (TMDB).
+
+Built on: JavaScript
+
+<https://github.com/carlagesa/Watchflix>
