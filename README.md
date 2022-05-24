@@ -152,3 +152,13 @@ Built on: TypeScript, JavaScript, HTML etc.
 https://github.com/novuhq/novu
 
 Issues for first timers: https://github.com/novuhq/novu/contribute
+
+## Twitter Joker Bot
+
+> An Open-Source Twitter Bot 🤖 that Tweets Tech Jokes.
+
+Built on: Go
+
+https://github.com/lakshminarasimmanv/TwitterJokerBot
+
+Read the [Contributor's Guide](https://github.com/lakshminarasimmanv/TwitterJokerBot/blob/main/CONTRIBUTING.md) to get started.
