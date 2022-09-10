@@ -18,8 +18,6 @@ https://github.com/firstcontributions/first-contributions
 
 ---
 
-# List
-
 ## defaang
 
 > A website that will curate recently-asked interview questions from FAANG+ to help people practice & prep.
