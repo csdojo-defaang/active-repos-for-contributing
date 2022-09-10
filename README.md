@@ -68,16 +68,6 @@ https://github.com/MizouziE/energy-prices-api
 
 ---
 
-## Friendly Reminder Bot
-
-> A friendly reminder twitter bot to keep you healthy and happy.
-
-Built on: Python, plain text
-
-https://github.com/ykdojo/friendlyreminderbot
-
----
-
 ## open-sauced/hot
 
 > A site that recommends the hottest projects on GitHub.
