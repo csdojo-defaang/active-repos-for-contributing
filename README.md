@@ -18,6 +18,18 @@ https://github.com/firstcontributions/first-contributions
 
 ---
 
+# List
+
+## defaang
+
+> A website that will curate recently-asked interview questions from FAANG+ to help people practice & prep.
+
+Built on: TypeScript/JavaScript, Next.js/React, Supabase
+
+https://github.com/ykdojo/defaang
+
+---
+
 ## LinkFree
 
 > An open-source alternative to Linktree.
