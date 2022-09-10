@@ -78,27 +78,6 @@ https://github.com/open-sauced/hot
 
 ---
 
-## codinasion-programme
-
-> An open-source codebase for sharing programming solutions.
-
-Built on: many languages
-
-https://github.com/codinasion/codinasion-programme
-
----
-
-## Feed-Monitor
-
-> A configurable service written in Go to monitor published feeds and create alerts based on filters.
-
-Built on: Go
-
-https://github.com/KyleTryon/Feed-Monitor
-
-
----
-
 ## Appwrite
 
 > An open-source Firebase alternative. Has multiple good first issues for beginners and non-code-related issues to get started with open source. The contribution guide has good coverage of how to get started. Besides the main repo, there are many more repos open for contributions in many coding languages and different technologies. 
@@ -108,6 +87,7 @@ Built on: many languages
 https://github.com/appwrite
 
 ---
+
 ## Colossal-AI
 > An open-source deep learning system for large-scale model training with high efficiency and low cost. Colossal-AI provides a collection of parallel training components. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training in a few lines.
 
@@ -115,19 +95,15 @@ Built on: Python, Cuda, C++
 
 https://github.com/hpcaitech/ColossalAI
 
-
 ---
 
 ## Amplication
 
 > Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
- 
-
 Built on: TypeScript, NodeJS, React, etc.
 
-https://github.com/amplication
-
+https://github.com/amplication/amplication
 
 ---
 
