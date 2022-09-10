@@ -128,3 +128,15 @@ Built on: TypeScript, JavaScript, HTML etc.
 https://github.com/novuhq/novu
 
 Issues for first timers: https://github.com/novuhq/novu/contribute
+
+---
+
+## projectmate
+
+> Find your project mate online | A place where you can find contributors and maintainers for open-source projects
+
+Built on: Next.js TypeScript, MongoDB, Firebase, Prisma etc.
+
+https://github.com/rohitdasu/projectmate
+
+Issues for first timers: https://github.com/rohitdasu/projectmate/contribute
