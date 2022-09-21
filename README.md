@@ -154,6 +154,17 @@ Built on: HTML, CSS, TypeScript
 https://github.com/Dun-sin/Code-Magic
 
 Issues for first timers: https://github.com/Dun-sin/Code-Magic/contribute
+
+---
+
+## KyleTryon/Feed-Monitor
+
+> A configurable service written in Go to monitor published feeds and create alerts based on filters
+
+Built on: Go
+
+https://github.com/KyleTryon/Feed-Monitor
+
 ---
 
 ## techsquidtv/shoutify
