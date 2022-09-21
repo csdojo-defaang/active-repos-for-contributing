@@ -154,8 +154,6 @@ Built on: HTML, CSS, TypeScript
 https://github.com/Dun-sin/Code-Magic
 
 Issues for first timers: https://github.com/Dun-sin/Code-Magic/contribute
-
-
 ---
 
 ## techsquidtv/shoutify
