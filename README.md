@@ -154,3 +154,16 @@ Built on: HTML, CSS, TypeScript
 https://github.com/Dun-sin/Code-Magic
 
 Issues for first timers: https://github.com/Dun-sin/Code-Magic/contribute
+
+
+---
+
+## techsquidtv/shoutify
+
+> An open source, self-hosted, and entirely free solution to social media management.
+
+Built on: TypeScript, Next.js, Next-Auth, tRPC, Prisma, Tailwind
+
+https://github.com/TechSquidTV/Shoutify
+
+Issues for first timers: https://github.com/TechSquidTV/Shoutify/contribute
