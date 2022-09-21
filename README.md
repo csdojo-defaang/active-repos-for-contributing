@@ -157,16 +157,6 @@ Issues for first timers: https://github.com/Dun-sin/Code-Magic/contribute
 
 ---
 
-## KyleTryon/Feed-Monitor
-
-> A configurable service written in Go to monitor published feeds and create alerts based on filters
-
-Built on: Go
-
-https://github.com/KyleTryon/Feed-Monitor
-
----
-
 ## techsquidtv/shoutify
 
 > An open source, self-hosted, and entirely free solution to social media management.
@@ -176,3 +166,13 @@ Built on: TypeScript, Next.js, Next-Auth, tRPC, Prisma, Tailwind
 https://github.com/TechSquidTV/Shoutify
 
 Issues for first timers: https://github.com/TechSquidTV/Shoutify/contribute
+
+---
+
+## KyleTryon/Feed-Monitor
+
+> A configurable service written in Go to monitor published feeds and create alerts based on filters
+
+Built on: Go
+
+https://github.com/KyleTryon/Feed-Monitor
