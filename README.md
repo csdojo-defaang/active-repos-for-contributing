@@ -1,4 +1,5 @@
 # active-repos-for-contributing
+
 A list of friendly active repos for contributing!
 
 - Original idea: https://twitter.com/ykdojo/status/1527459965769723905
@@ -80,7 +81,7 @@ https://github.com/open-sauced/hot
 
 ## Appwrite
 
-> An open-source Firebase alternative. Has multiple good first issues for beginners and non-code-related issues to get started with open source. The contribution guide has good coverage of how to get started. Besides the main repo, there are many more repos open for contributions in many coding languages and different technologies. 
+> An open-source Firebase alternative. Has multiple good first issues for beginners and non-code-related issues to get started with open source. The contribution guide has good coverage of how to get started. Besides the main repo, there are many more repos open for contributions in many coding languages and different technologies.
 
 Built on: many languages
 
@@ -89,6 +90,7 @@ https://github.com/appwrite
 ---
 
 ## Colossal-AI
+
 > An open-source deep learning system for large-scale model training with high efficiency and low cost. Colossal-AI provides a collection of parallel training components. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training in a few lines.
 
 Built on: Python, Cuda, C++
@@ -140,3 +142,15 @@ Built on: Next.js TypeScript, MongoDB, Firebase, Prisma etc.
 https://github.com/rohitdasu/projectmate
 
 Issues for first timers: https://github.com/rohitdasu/projectmate/contribute
+
+---
+
+## code-magic
+
+> All-in-one tool for Developers. Generate gradient background, border, text, and animation with just one click.
+
+Built on: HTML, CSS, TypeScript
+
+https://github.com/Dun-sin/Code-Magic
+
+Issues for first timers: https://github.com/Dun-sin/Code-Magic/contribute
