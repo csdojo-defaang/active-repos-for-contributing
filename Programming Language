@@ -15,33 +15,33 @@ PROGRAMMING LANGUAGES
 ## Repository by programming language
 
 <!-- Repo by language -->
+
+<!-- link to directory -->
+<!-- A subfolder will be created for the various frameworks -->
+
 <details>
   <summary><strong>Programming languages<strong></summary>
-  <ol>
-    <li>
-      <a href="#javascript-repos">Javascript</a>
-      <!-- link to directory -->
-      <!-- A subfolder will be created for the various frameworks -->
-      <ul>
-        <li><a href="#built-with-react">React</a></li>
-        <li><a href="#built-with-next">Next.js</a></li>
-        <li><a href="#built-with-typescript">Typescript.js</a></li>
-        <li><a href="#built-with-node">Node.js</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#python-repos">Python</a>
-      <ul>
-        <li><a href="#built-with-django">Django</a></li>
-        <li><a href="#built-with-flask">Flask</a></li>
-      </ul>
-    </li>
+      <details>
+        <summary><a href="#javascript-repos">Javascript</a></summary>
+        <ol>
+          <li><a href="#built-with-react">React</a></li>
+          <li><a href="#built-with-next">Next.js</a></li>
+          <li><a href="#built-with-typescript">Typescript.js</a></li>
+          <li><a href="#built-with-node">Node.js</a></li>
+        </ol>
+      </details>
+      <details>
+          <summary><a href="#javascript-repos">Python</a></summary>
+          <ol>
+            <li><a href="#built-with-react">Django</a></li>
+            <li><a href="#built-with-next">Flask</a></li>
+          </ol>
+        </details>
     <li><a href="#flutter-repos">Flutter</a></li>
     <li><a href="#dart-repos">Dart</a></li>
     <li><a href="#go-repos">Go</a></li>
     <li><a href="#markdown-repos">Markdown (plaintext)</a></li>
     <li><a href="#cpp-repos">C++</a></li>
-  </ol>
 </details>
 
 <!-- javascript section start here -->
