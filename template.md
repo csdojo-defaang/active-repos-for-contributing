@@ -31,7 +31,7 @@ PROGRAMMING LANGUAGES
         </ol>
       </details>
       <details>
-          <summary><a href="#javascript-repos">Python</a></summary>
+          <summary><a href="#python-repos">Python</a></summary>
           <ol>
             <li><a href="#built-with-react">Django</a></li>
             <li><a href="#built-with-next">Flask</a></li>
