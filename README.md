@@ -187,3 +187,13 @@ Built on: Python, Gtk
 
 https://github.com/LinuxGamer/Universe
 
+---
+
+## freeCodeCamp/freeCodeCamp
+
+> freeCodeCamp.org is a friendly community where you can learn to code for free. This repo consists of freeCodeCamp.org's open-source codebase and curriculum.
+
+Built on: TypeScript, JavaScript, CSS
+
+https://github.com/freeCodeCamp/freeCodeCamp
+
