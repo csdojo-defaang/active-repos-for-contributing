@@ -51,7 +51,7 @@ https://github.com/FrancescoXX/free-Web3-resources
 
 ## learnpython
 
-> A list of python resources for everyone.
+> A list of Python resources for everyone.
 
 Built on: Markdown, plain text
 
