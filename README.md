@@ -227,5 +227,16 @@ Built on: Next.js, Tailwind
 
 https://github.com/FrancescoXX/4c-site
 
+---
+
+## Cloud Haiku
+> Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
+
+Built on: HTML, JavaScript, Markdown
+
+https://github.com/do-community/cloud_haiku
+
+---
+
 
 
