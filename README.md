@@ -197,3 +197,13 @@ Built on: TypeScript, JavaScript, CSS
 
 https://github.com/freeCodeCamp/freeCodeCamp
 
+---
+
+## MunGell/awesome-for-beginners
+
+> awesome-for-beginners is a repository which has a list of projects mentioned with list of languages, check out list pick your language & Start contributing right now, there are alomst all languages  listed. WHAT ARE YOU WAITING FOR....! Start contributing right now :)(If any language specific projects are missing please do add it by PR )
+
+Built on: Github Markdown
+
+https://github.com/MunGell/awesome-for-beginners
+
