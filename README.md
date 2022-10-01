@@ -49,6 +49,16 @@ https://github.com/FrancescoXX/free-Web3-resources
 
 ---
 
+## learnpython
+
+> A list of Python resources for everyone.
+
+Built on: Markdown, plain text
+
+https://github.com/thegeekyb0y/learnpython
+
+---
+
 ## atmosphere_pro
 
 > A secure P2P file transfer app.
