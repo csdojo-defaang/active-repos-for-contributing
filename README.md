@@ -197,3 +197,25 @@ Built on: TypeScript, JavaScript, CSS
 
 https://github.com/freeCodeCamp/freeCodeCamp
 
+---
+
+## dailydotdev/docs
+
+> The official product docs of daily.dev
+
+Built on: HTML, CSS, JavaScript
+
+https://github.com/dailydotdev/docs
+
+---
+
+## 4C-site
+
+> 4C official Website
+
+Built on: Next.js, Tailwind
+
+https://github.com/FrancescoXX/4c-site
+
+
+
