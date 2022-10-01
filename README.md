@@ -53,7 +53,7 @@ https://github.com/FrancescoXX/free-Web3-resources
 
 > A list of python resources for everyone.
 
-Built on : markdown,plain text
+Built on: Markdown, plain text
 
 https://github.com/thegeekyb0y/learnpython
 
