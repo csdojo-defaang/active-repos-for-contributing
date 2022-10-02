@@ -141,6 +141,46 @@ A list of friendly active repos for contributing!
 
 **Issues for first timers:** https://github.com/TechSquidTV/Shoutify/contribute
 
+<br>
+
+## freeCodeCamp/freeCodeCamp
+
+> freeCodeCamp.org is a friendly community where you can learn to code for free. This repo consists of freeCodeCamp.org's open-source codebase and curriculum.
+
+**Built on:** TypeScript, JavaScript, CSS
+
+**Link:** https://github.com/freeCodeCamp/freeCodeCamp
+
+<br>
+
+## dailydotdev/docs
+
+> The official product docs of daily.dev
+
+**Built on:** HTML, CSS, JavaScript
+
+**Link:** https://github.com/dailydotdev/docs
+
+<br>
+
+## 4C-site
+
+> 4C official Website
+
+**Built on:** Next.js, Tailwind
+
+**Link:** https://github.com/FrancescoXX/4c-site
+
+<br>
+
+## Cloud Haiku
+
+> Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
+
+**Built on:** HTML, JavaScript, Markdown
+
+**Link:** https://github.com/do-community/cloud_haiku
+
 ---
 
 <br>
