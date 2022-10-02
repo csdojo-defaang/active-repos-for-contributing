@@ -238,5 +238,14 @@ https://github.com/do-community/cloud_haiku
 
 ---
 
+## Would You Bot
+> Would You is a Discord Bot built to help servers of any size gain more activity. Its code is fully open source and translated into German and English. The bot is asks users *would you rather* questions to get conversations started more easily.
+
+Built on: Discord.js
+
+https://github.com/Would-You-Bot/Would-You
+
+---
+
 
 
