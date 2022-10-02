@@ -73,7 +73,7 @@ A list of friendly active repos for contributing!
 
 <br>
 
-## Amplication
+## atmosphere_pro
 
 > Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
@@ -128,6 +128,10 @@ A list of friendly active repos for contributing!
 **Link:** https://github.com/Dun-sin/Code-Magic
 
 **Issues for first timers:** https://github.com/Dun-sin/Code-Magic/contribute
+
+**Issues for first timers:** https://github.com/Dun-sin/Code-Magic/contribute
+
+---
 
 <br>
 
@@ -210,6 +214,14 @@ A list of friendly active repos for contributing!
 **Built on:** Python, Gtk
 
 **Link:** https://github.com/LinuxGamer/Universe
+
+## learnpython
+
+> A list of Python resources for everyone.
+
+**Built on:** Markdown, plain text
+
+**Link:** https://github.com/thegeekyb0y/learnpython
 
 ---
 
