@@ -32,7 +32,7 @@ A list of friendly active repos for contributing!
     <li><a href="#flutter-repos">Flutter</a></li>
     <li><a href="#dart-repos">Dart</a></li>
     <li><a href="#go-repos">Go</a></li>
-    <li><a href="#markdown-repos">Markdown (plaintext)</a></li>
+    <li><a href="#markdown-repos">Markdown(plaintext)</a></li>
     <li><a href="#cpp-repos">C++</a></li>
 </details>
 
