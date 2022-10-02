@@ -238,5 +238,14 @@ https://github.com/do-community/cloud_haiku
 
 ---
 
+## flutter_twitter_clone
+> Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage. Good for Flutter newbies 
+
+Built on: Flutter, Dart, firebase
+
+https://github.com/TheAlphamerc/flutter_twitter_clone
+
+---
+
 
 
