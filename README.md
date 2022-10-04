@@ -257,7 +257,7 @@ https://github.com/commclassroom/roadmaps
 ---
 
 ## Your Project
-> Make sure to include a small but informative description on what your project is about and how we can help.
+> Make sure to include a small but informative description on what this project is about.
 
 Built on: Libraries and languages your project is build with.
 
