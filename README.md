@@ -260,7 +260,7 @@ https://github.com/commclassroom/roadmaps
 
 > Make sure to include a small but informative description on what this project is about.
 
-Built on: Libraries and languages this project is built with.
+Built on: libraries and languages this project is built with.
 
 `GitHub repository url`
 
