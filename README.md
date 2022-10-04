@@ -261,7 +261,7 @@ https://github.com/commclassroom/roadmaps
 
 Built on: Libraries and languages this project is built with.
 
-`Your GitHub repository url`
+`GitHub repository url`
 
 ---
 
