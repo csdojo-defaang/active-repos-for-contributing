@@ -247,5 +247,15 @@ https://github.com/Would-You-Bot/Would-You
 
 ---
 
+## commclassroom/roadmaps
+> This repository contains the list of communities and job portals you can join and apply to.
+
+Built on: Markdown, plain text
+
+https://github.com/commclassroom/roadmaps
+
+---
+
+
 
 
