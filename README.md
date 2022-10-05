@@ -3,7 +3,6 @@
 A list of friendly active repos for contributing!
 
 - Original idea: https://twitter.com/ykdojo/status/1527459965769723905
-- Original list: https://twitter.com/ykdojo/status/1527429405932257280
 
 ---
 
@@ -26,16 +25,6 @@ https://github.com/firstcontributions/first-contributions
 Built on: TypeScript/JavaScript, Next.js/React, Supabase
 
 https://github.com/ykdojo/defaang
-
----
-
-## LinkFree
-
-> An open-source alternative to Linktree.
-
-Built on: JavaScript, Node, React
-
-https://github.com/EddieHubCommunity/LinkFree
 
 ---
 
