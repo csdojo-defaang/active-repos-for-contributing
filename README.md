@@ -259,7 +259,7 @@ https://github.com/commclassroom/roadmaps
 ## AmruthPillai/Reactive-Resume
 > A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever
 
-Built on: TypeScript, JavaScript, Kotlin, HTML, SCSS
+Built on: TypeScript, React, Next.js, TailwindCSS
 
 https://github.com/AmruthPillai/Reactive-Resume
 
