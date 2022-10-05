@@ -68,6 +68,16 @@ https://github.com/MizouziE/energy-prices-api
 
 ---
 
+## Oppia
+
+> Oppia is an online learning tool that enables anyone to easily create and share interactive activities (called 'explorations').
+
+Built on: Python, AngularJS
+
+https://github.com/oppia/oppia
+
+---
+
 ## open-sauced/hot
 
 > A site that recommends the hottest projects on GitHub.
