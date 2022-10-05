@@ -265,6 +265,18 @@ https://github.com/AmruthPillai/Reactive-Resume
 
 ---
 
+## Merch-Designer
+
+> design beautiful swags.
+
+Built on: Javascript, HTML, TailwindCSS.
+
+https://github.com/Abdulmumin1/Merch-Designer
+
+issues for firstimers: https://github.com/Abdulmumin1/Merch-Designer/contribute
+
+---
+
 ## Another Project
 
 > Make sure to include a small but informative description on what this project is about.
