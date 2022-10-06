@@ -264,6 +264,15 @@ https://github.com/AmruthPillai/Reactive-Resume
 
 ---
 
+## mfts/papermark
+> An open-source secure document sharing alternative to Docsend with built-in analytics + free custom domains.
+
+Built on: TypeScript, React, Next.js, TailwindCSS
+
+https://github.com/mfts/papermark
+
+---
+
 ## Another Project
 
 > Make sure to include a small but informative description on what this project is about.
