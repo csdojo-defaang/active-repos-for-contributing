@@ -273,6 +273,16 @@ https://github.com/mfts/papermark
 
 ---
 
+## Merch-Designer
+
+> Design beautiful and amazing merches blazing fast.
+
+Built on: Javascript, HTML, TailwindCSS.
+
+https://github.com/Abdulmumin1/Merch-Designer
+
+---
+
 ## Another Project
 
 > Make sure to include a small but informative description on what this project is about.
