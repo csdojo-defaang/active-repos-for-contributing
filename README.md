@@ -1,5 +1,11 @@
 # active-repos-for-contributing
 
+This repo exists to help people find open source repos to contribute to.
+
+There are many, many repos on GitHub, and it's hard to know which ones are friendly and/or interesting to get involved with.
+
+By keeping this list, it will hopefully make the process of finding a repo simpler.
+
 A list of friendly active repos for contributing!
 
 - Original idea: https://twitter.com/ykdojo/status/1527459965769723905
