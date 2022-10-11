@@ -1,3 +1,10 @@
+# open-source
+How to get started with open source: https://www.youtube.com/watch?v=MkaIrwOlP6Y
+
+#defaang
+defaang / dojo clan Discord (in case people want to ask questions or chat about open source): https://discord.com/invite/nNtVfKddDD
+
+
 # active-repos-for-contributing
 
 A list of friendly active repos for contributing!
