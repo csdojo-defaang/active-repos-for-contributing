@@ -274,7 +274,7 @@ https://github.com/mfts/papermark
 ---
 
 ## forem/forem
-> An open-source software for building communities for peers, families, customers and fanbases.
+> Open-source software for building communities for peers, families, customers, and fanbases.
 
 Built on: Ruby, JavaScript, HTML, SCSS, CSS, Shell
 
