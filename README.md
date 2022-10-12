@@ -1,5 +1,13 @@
 # active-repos-for-contributing
 
+Hey , Folks here is the Repos in which you can contribute here they are.
+
+this repository is open for the people who want to conribute in open source for the first time .
+
+
+Hacktoberfest is going on and i bring all the list of repos in which you can contribute.
+
+
 A list of friendly active repos for contributing!
 
 - Original idea: https://twitter.com/ykdojo/status/1527459965769723905
