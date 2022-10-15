@@ -11,7 +11,6 @@ Hacktoberfest is going on and i bring all the list of repos in which you can con
 A list of friendly active repos for contributing!
 
 - Original idea: https://twitter.com/ykdojo/status/1527459965769723905
-
 ---
 
 # List
