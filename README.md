@@ -78,6 +78,16 @@ https://github.com/oppia/oppia
 
 ---
 
+## dgs-framework
+
+> The DGS Framework (Domain Graph Service) is a GraphQL server framework for Spring Boot, developed by Netflix.
+
+Built on: Kotlin, Java
+
+https://github.com/Netflix/dgs-framework
+
+---
+
 ## open-sauced/hot
 
 > A site that recommends the hottest projects on GitHub.
