@@ -3,6 +3,7 @@
 A list of friendly active repos for contributing!
 
 - Original idea: https://twitter.com/ykdojo/status/1527459965769723905
+- Discord: https://discord.com/invite/nNtVfKddDD
 
 ---
 
