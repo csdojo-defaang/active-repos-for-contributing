@@ -283,6 +283,15 @@ https://github.com/forem/forem
 
 ---
 
+## EddieHubCommunity/LinkFree
+> Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for  people to find, follow and subscribe.
+
+Built on: nodejs, javascript, css, html, docker, mongodb, reactjs, nextjs, tailwind
+
+https://github.com/EddieHubCommunity/LinkFree
+
+---
+
 ## Another Project
 
 > Make sure to include a small but informative description on what this project is about.
