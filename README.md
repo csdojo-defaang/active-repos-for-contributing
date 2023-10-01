@@ -287,6 +287,10 @@ https://github.com/EddieHubCommunity/LinkFree
 
 Built on: Ruby, nodejs, javascript, typescript, css, html, docker, mongodb, reactjs, nextjs, tailwind
 
+https://github.com/up-for-grabs/up-for-grabs.net
+
+---
+
 ## Another Project
 
 > Make sure to include a small but informative description on what this project is about.
