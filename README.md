@@ -1,4 +1,7 @@
 # active-repos-for-contributing
+    qnz nj  n 
+    kqwnqsnxkuqs
+    nwxsqnksn
 
 A list of friendly active repos for contributing!
 
